@@ -74,5 +74,9 @@
     justify-content: center;
     align-items: center;
   }
-</style>
 
+  table {
+    width: 300px;
+    height: auto;
+  }
+</style>
