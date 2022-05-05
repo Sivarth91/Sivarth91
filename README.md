@@ -2,7 +2,7 @@
 
 <p style="font-size: 18px;">Hello, I'm Sivarth and I'm a french web and mobile developper. You can contact me on :</p>
 
-<div class="social-media">
+<div style="display: flex; flex-direction: row; gap: 5px;">
   <a href="https://github.com/Sivarth91">
     <img style="width: 50px; border-radius: 5px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
     </img>
@@ -15,7 +15,7 @@
 </div>
 <h1>Skills :</h1>
 
-<table>
+<table style="width: 500px;">
   <tr>
       <!-- <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td> -->
       <!-- <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td> -->
@@ -42,15 +42,15 @@
 
 </table>
 
-<div class="foot">
+<div style="display: flex; flex-direction: column; gap: 20px; margin-top: 50px;">
 
-  <div class="commits">
+  <div style="display: flex; align-items: flex-start;">
 
   ![github stats](https://github-readme-stats.vercel.app/api?username=sivarth91&theme=tokyonight)
 
   </div>
 
-  <div class="langs">
+  <div style="display: flex; align-items: flex-start; margin-left: 20px;">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivarth91&theme=tokyonight)
 
@@ -58,32 +58,4 @@
 
 </div>
 
-<style>
-  .social-media {
-    display: flex;
-    flex-direction: row;
-    gap: 5px;
-  }
 
-  .foot {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    margin-top: 50px;
-  }
-
-  .commits {
-    display: flex;
-    align-items: flex-start;
-  }
-
-  .langs {
-    display: flex;
-    align-items: flex-start;
-    margin-left: 20px;
-  }
-
-  table {
-    width: 500px;
-  }
-</style>
