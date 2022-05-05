@@ -43,16 +43,19 @@
 </table>
 
 <div class="foot">
-  <div class=""commits>
+
+  <div class="commits">
 
   ![github stats](https://github-readme-stats.vercel.app/api?username=sivarth91&theme=tokyonight)
 
   </div>
+
   <div class="langs">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivarth91&theme=tokyonight)
 
   </div>
+
 </div>
 
 <style>
@@ -69,9 +72,18 @@
     margin-top: 50px;
   }
 
+  .commits {
+    display: flex;
+    align-items: flex-start;
+  }
+
   .langs {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    align-items: flex-start;
+    margin-left: 20px;
+  }
+
+  table {
+    width: 500px;
   }
 </style>
