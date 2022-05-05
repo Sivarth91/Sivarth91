@@ -56,6 +56,7 @@
 </div>
 
 <style>
+  
   .social-media {
     display: flex;
     flex-direction: row;
