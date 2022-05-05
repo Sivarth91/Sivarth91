@@ -74,12 +74,4 @@
     justify-content: center;
     align-items: center;
   }
-
-  table {
-    width: 200px;
-    height: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
 </style>
