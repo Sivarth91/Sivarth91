@@ -17,7 +17,7 @@
 <h1>Skills :</h1>
 
 <table style="width: 500px; height: 300px;">
-  <tr style="width: 300px;">
+  <tr>
       <!-- <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td> -->
       <!-- <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td> -->
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
