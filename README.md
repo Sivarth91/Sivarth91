@@ -54,7 +54,7 @@
 
   <div style="display: flex; align-items: flex-start; margin-left: 20px;">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivarth91&theme=tokyonight)
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivarth91&theme=tokyonight) -->
 
   </div>
 
