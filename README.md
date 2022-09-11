@@ -47,8 +47,10 @@
 
   <div style="display: flex; align-items: flex-start;">
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=sivarth91&theme=tokyonight)
+  <!---![github stats](https://github-readme-stats.vercel.app/api?username=sivarth91&theme=tokyonight)-->
+[![QuentinBubu top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivarth91&langs_count=15&theme=dark)](https://github.com/Sivarth91)
 
+[![Sivarth91 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sivarth91&theme=dark)](https://github.com/Sivarth91)
   </div>
 
   <div style="display: flex; align-items: flex-start; margin-left: 20px;">
