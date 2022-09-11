@@ -48,7 +48,7 @@
   <div style="display: flex; align-items: flex-start;">
 
   <!---![github stats](https://github-readme-stats.vercel.app/api?username=sivarth91&theme=tokyonight)-->
-    [![Sivarth91 top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivarth91&langs_count=15&theme=tokyonight)](https://github.com/Sivarth91)
+  [![Sivarth91 top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivarth91&langs_count=15&theme=tokyonight)](https://github.com/Sivarth91)
 
   </div>
 
